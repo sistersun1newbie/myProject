@@ -28,7 +28,7 @@ module.exports = {
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
     proxyTable: {
-   //'/chejudo-web':'http://211.253.27.204/',
+  
    '/chejudo-web':'http://192.168.1.195:8080'
     },
     // CSS Sourcemaps off by default because relative paths are "buggy"
